@@ -1,5 +1,5 @@
-
 <b>Project Title: Interactive Portfolio</b><br>
+![Uploading Screenshot 2024-01-03 at 19-20-29 React App.png…]()
 
 <b>Description:</b><br>
 Welcome to my Interactive Portfolio project! This portfolio showcases my skills and projects in a visually appealing and interactive way. I have incorporated various features using React, including the use of hooks such as useState and useRef. Additionally, I have integrated the EmailJS API to enable a seamless communication process.
