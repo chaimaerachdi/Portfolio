@@ -1,6 +1,6 @@
 <b>Project Title: Interactive Portfolio</b><br>
 https://github.com/chaimaerachdi/Portfolio/blob/main/Screenshot%202024-01-03%20at%2019-20-29%20React%20App.png
-<b>Description:</b><br>
+<br><b>Description:</b><br>
 Welcome to my Interactive Portfolio project! This portfolio showcases my skills and projects in a visually appealing and interactive way. I have incorporated various features using React, including the use of hooks such as useState and useRef. Additionally, I have integrated the EmailJS API to enable a seamless communication process.
 <br><b>Technologies Used:</b><br>
 
