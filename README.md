@@ -1,5 +1,6 @@
 
 <b>Project Title: Interactive Portfolio</b><br>
+
 <b>Description:</b><br>
 Welcome to my Interactive Portfolio project! This portfolio showcases my skills and projects in a visually appealing and interactive way. I have incorporated various features using React, including the use of hooks such as useState and useRef. Additionally, I have integrated the EmailJS API to enable a seamless communication process.
 <br><b>Technologies Used:</b><br>
