@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/chaimaerachdi/Portfolio/static/css/main.f4eb6953.css",
+    "main.js": "/chaimaerachdi/Portfolio/static/js/main.4a4dbe9c.js",
+    "static/media/youClone.png": "/chaimaerachdi/Portfolio/static/media/youClone.835a32f5059d8944cf1a.png",
+    "static/media/amazonClone.png": "/chaimaerachdi/Portfolio/static/media/amazonClone.b02ffdad6e7db9477231.png",
+    "static/media/new_cv_ensao2.pdf": "/chaimaerachdi/Portfolio/static/media/new_cv_ensao2.55625819cd42d5c3179c.pdf",
+    "static/media/ME.jpeg": "/chaimaerachdi/Portfolio/static/media/ME.8dae3efed8d2b917bb6f.jpeg",
+    "static/media/WhatsApp Image 2024-01-03 at 13.46.10.jpeg": "/chaimaerachdi/Portfolio/static/media/WhatsApp Image 2024-01-03 at 13.46.10.962b7e49ce38f798890d.jpeg",
+    "index.html": "/chaimaerachdi/Portfolio/index.html",
+    "main.f4eb6953.css.map": "/chaimaerachdi/Portfolio/static/css/main.f4eb6953.css.map",
+    "main.4a4dbe9c.js.map": "/chaimaerachdi/Portfolio/static/js/main.4a4dbe9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4eb6953.css",
+    "static/js/main.4a4dbe9c.js"
+  ]
+}
