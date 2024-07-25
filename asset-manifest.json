@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f4eb6953.css",
+    "main.js": "/Portfolio/static/js/main.09d826a6.js",
+    "static/media/youClone.png": "/Portfolio/static/media/youClone.835a32f5059d8944cf1a.png",
+    "static/media/amazonClone.png": "/Portfolio/static/media/amazonClone.b02ffdad6e7db9477231.png",
+    "static/media/new_cv_ensao2.pdf": "/Portfolio/static/media/new_cv_ensao2.55625819cd42d5c3179c.pdf",
+    "static/media/ME.jpeg": "/Portfolio/static/media/ME.8dae3efed8d2b917bb6f.jpeg",
+    "static/media/WhatsApp Image 2024-01-03 at 13.46.10.jpeg": "/Portfolio/static/media/WhatsApp Image 2024-01-03 at 13.46.10.962b7e49ce38f798890d.jpeg",
+    "index.html": "/Portfolio/index.html",
+    "main.f4eb6953.css.map": "/Portfolio/static/css/main.f4eb6953.css.map",
+    "main.09d826a6.js.map": "/Portfolio/static/js/main.09d826a6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f4eb6953.css",
+    "static/js/main.09d826a6.js"
+  ]
+}
